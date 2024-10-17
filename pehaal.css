@@ -1,0 +1,218 @@
+
+.navbar{
+    width: 1400px;
+    height: 86px;
+    background-color: #FF7F50;
+    display: inline-block;
+    border: 1px solid #FF7F50;
+    display: flex;
+    justify-content: cover;
+    
+ 
+}
+.main_logo
+{
+    width: 160px;
+    height:86px;
+    background-color:aliceblue;
+    border: 1px solid #FF7F50;
+    background-image: url("logo-group1.png");
+    background-position: 30%;
+    background-size: cover;
+   
+
+    
+}
+.main_logo:hover
+{
+    border: 2px solid red;
+
+}
+.ggits
+{
+    width: 88px;
+    height: 86px;
+    background-color: aliceblue;
+    border: 1px solid #FF7F50;
+    background-image: url("logo_ggits.png");
+    background-position: 30%;
+    background-size: cover;
+
+     
+    
+    
+}
+.ggits:hover{
+    border: 2px solid green;
+}
+.ggct
+{
+    width: 79px;
+    height: 86px;
+    background-color: aliceblue;
+    border: 1px solid #FF7F50;
+    background-image: url("gyan-ganga-college-of-management-and-technology-logo.png");
+    background-size: cover; 
+
+    
+}
+.ggct:hover{
+    border: 2px solid rgb(71, 71, 139);
+}
+.ggce
+{
+    width: 111px;
+    height: 86px;
+    background-color: aliceblue;
+    border: 1px solid #367588;
+    background-image: url("1691480351-7489113364d1f11f21930!GGCE-logo.jpg");
+    background-size: cover;
+    background-position: 20%;
+}
+.ggce:hover{
+    border: 2px solid rgb(52, 52, 110);
+}
+.team_indigo
+{
+    width: 115px;
+    height: 86px;
+    background-color: aliceblue;
+    border: 1px solid #FF7F50;
+    background-image: url("logo.png");
+    background-size: cover;
+}
+.team_indigo:hover{
+    border: 2px solid black;
+}
+.content{
+    width: 1400px ;
+    height: 600px;
+    background-image:url("1ba690ff2bcec53f37c8045ab9415465.jpg") ;
+    background-size: cover;
+    
+}
+
+.pehal{
+     font-size: 50px;
+     position: absolute;
+     top: 160px;
+     left: 560px;
+     color: #66323A;
+
+    
+}
+.subah
+{
+ 
+   font-size: 12px;
+   position: absolute;
+   top: 330px;
+   left: 700px;
+   color: #66323A;}
+
+   .history{
+    font-weight : bold;
+    font-size: 20px;
+    position: absolute;
+   top: 430px;
+   left: 200px;
+   color: #804B53;
+
+   }
+   .founding
+   {
+    text-align: center;
+    font-weight : bold;
+    font-size: 25px;
+    position: absolute;
+   top: 490px;
+   left: 45px;
+   color: #330F14;
+   padding: 20px 50px 20px 50px ;
+   }
+   .collage
+   {
+    background-color: #fc7311;
+    height: 800px;
+    width: 1400px;
+    
+   }
+
+   .impact{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    position: absolute;
+    top: 720px;
+    left: 500px;
+   }
+   .image{
+    
+    height: 630.25px;
+    width: 650px;
+    display: flex;
+    position: relative;
+    left: 300px;
+    top: 90px;
+    justify-content: center;
+    align-items: center;
+    background-image: url("Screenshot 2024-10-15 171310.png");
+    border: 2px solid transparent;
+   }
+   .image:hover{
+    border: 8px solid rgb(235, 235, 31);
+   }
+   .my_video{
+    height: 630.25px;
+    width: 1400px;
+    background-color: rgb(237, 199, 128);
+
+   }
+   .video{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    position: relative;
+    left: 300px;
+    top: 90px;
+
+   }
+   .QR{
+    height: 400px;
+    width: 1400px;
+    background-color: #e4b08b;
+   }
+.footer{
+    width: 1400px;
+    height: 200px;
+    background-color: #eaa879;
+    text-decoration: none;
+}
+.indigo-logo{
+    height: 59.9px;
+    width: 120px;
+    border-bottom: 1px solid #eaa879;
+    background-image: url("footerLogo.jpg");
+    background-size: cover;
+    position: relative;
+    top: 50px;
+    left: 40px;
+    font-size: 12px;
+    
+}
+.link{
+    font-size: 20px;
+    position: absolute;
+     top: 2530px;
+     left: 300px;
+}
+
+
+
+   
+
+   
+
+   
